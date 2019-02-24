@@ -1,6 +1,4 @@
-# Rick and Morty biatches!
+# Hogwarts Dropout
 
-This is a simple webapp that generates a random character from Rick and Morty.
-
-Wubba lubba dubb dubb.
+This is a simple webapp for all Hogwarts dropouts looking for something to do with all the time they aren't spending in Defence Against the Dark Arts classes and playing quidditch.
 
